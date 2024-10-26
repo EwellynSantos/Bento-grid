@@ -1,4 +1,8 @@
 # Bento Grid Project
+
+![image](https://github.com/user-attachments/assets/e602bac2-a986-49d2-b65a-c47666b72310)
+
+
 Welcome! 👋
 
 This project was created as part of a Frontend Mentor challenge to enhance my skills in HTML, CSS, and CSS Grid. The goal was to build a Bento Grid layout that closely matches the original design, using modern layout techniques to ensure a responsive and visually appealing interface.
