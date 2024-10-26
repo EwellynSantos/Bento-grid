@@ -1,6 +1,7 @@
 # Bento Grid Project
 
-![image](https://github.com/user-attachments/assets/e602bac2-a986-49d2-b65a-c47666b72310)
+![image](https://github.com/user-attachments/assets/125e31ff-e8d6-471e-827d-8bd6fe4fdbc6)
+
 
 
 Welcome! 👋
